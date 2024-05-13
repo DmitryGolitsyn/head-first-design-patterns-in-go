@@ -1,1 +1,1 @@
-# head-first-design-patterns-in-go
+# Head First. Design Patterns. Examples in Golang.
